@@ -1,31 +1,29 @@
-# [Your Name]
-## [Your Profession]
+# Cleyton Shelton
+## Student
 
-![Your picture](https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students/demo_bill_gates.jpg)
+![Your picture](cleyton_shelton.jpg)
 ---
 
 ### Contact
-- **Email:** [Your NKU Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Website:** [Your Personal Website]
+- **Email:** sheltonc8@mymail.nku.edu
+- **LinkedIn:** https://www.linkedin.com/in/cleytonshelton/
+- **GitHub:** https://github.com/cleytonshelton
 
 ---
 
 ### Summary
-A brief summary highlighting your professional background, key skills, and career goals.
-
+I am a junior studying Applied Software Engineering. I currently work at the airport as a Cabin Cleaning Lead.
 ---
 
 ### Experience
 
-#### [Job Title] - [Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
+#### Controls Engineer Co-Op - ControlTouch Systems
+- May 2024 - August 2024 | Louisville, Ky
+- Completed testing for faults for all the PLC's of code.
+- Assisted on the bag testing in the Orlando Airport.
 
-#### [Previous Job Title] - [Previous Company Name]
-*_[Start Date] - [End Date] | [Location]_*
+#### Cabin Cleaning Lead - Unifi
+*_August 2022 - Present | CVG Airport_*
 - Description of your role and responsibilities.
 - Significant achievements or projects you contributed to.
 
@@ -33,38 +31,14 @@ A brief summary highlighting your professional background, key skills, and caree
 
 ### Education
 
-#### [Degree], [Major] - [University Name]
-*_[Graduation Date]_*
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+#### Bachelors, ASE - Northern Kentucky University
+Estimated for Spring 2026
 
 ---
 
 ### Skills
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
-
----
-
-### Certifications
-- [Certification Name], Issued by [Issuing Organization] - [Date]
-- Another relevant certification with details.
-
----
-
-### Projects
-#### [Project Title]
-- A brief description of the project.
-- Technologies used and your role in the project.
-
-#### [Another Project Title]
-- Description of this project.
-- Highlight any unique challenges or successes.
-
----
-
-### Languages
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- **Technical Skills:** Python, Java, CSS, HTML, Linux, FactoryTalk View, Ladder Logic
+- **Soft Skills:** Communication, teamwork, problem-solving, leadership, time management
 
 ---
 
