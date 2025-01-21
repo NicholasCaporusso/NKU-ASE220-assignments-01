@@ -1,7 +1,7 @@
 # [Philip Bierley]
 ## [Software Developer & Student & Buisness Owner]
 
-![Your picture](https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students/demo_bill_gates.jpg)
+![Your picture](PHILIP_BIERLEY.JPG)
 ---
 
 ### Contact
