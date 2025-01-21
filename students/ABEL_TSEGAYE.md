@@ -1,7 +1,7 @@
 # Abel Tsegaye
 ## Student
 
-![Your picture](demo_bill_gates.jpg "https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students")
+![Your picture](ABEL_TSEGAYE.jpg "https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/2025-spring/students/ABEL_TSEGAYE.jpg")
 ---
 
 ### Contact
@@ -60,7 +60,7 @@ May 2025
 ---
 
 ### Languages
-- **[Language Name]:** English: Fluent
+- **[Language Name]:** English: Fluent proficiency
 
 ---
 
