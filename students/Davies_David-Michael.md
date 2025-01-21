@@ -1,5 +1,5 @@
-# [Your Name]
-## [Your Profession]
+David-Michael Davies
+University Student
 
 ![Your picture](https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students//Davies_David-Michael.jpg)
 ---
