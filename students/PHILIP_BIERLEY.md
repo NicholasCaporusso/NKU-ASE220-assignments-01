@@ -1,7 +1,7 @@
 # [Philip Bierley]
 ## [Software Developer & Student & Buisness Owner]
 
-![Your picture](students/)
+![Your picture](PHILIP_BIERLEY.JPG)
 ---
 
 ### Contact
