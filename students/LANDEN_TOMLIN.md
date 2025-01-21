@@ -1,7 +1,7 @@
 # [Landen Tomlin]
 ## [ASE Student]
 
-![My Picture](https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students/LANDEN_TOMLIN.jpg)
+!(https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/2025-spring/students/LANDEN_TOMLIN.jpg)
 ---
 
 ### Contact
