@@ -13,23 +13,12 @@
 ---
 
 ### Summary
-A brief summary highlighting your professional background, key skills, and career goals.
+I am a sophomore majoring in ASE. 
 
 ---
 
 ### Experience
 
-#### [Job Title] - [Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
-
-#### [Previous Job Title] - [Previous Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
-
----
 
 ### Education
 
