@@ -1,70 +1,66 @@
-# [Your Name]
-## [Your Profession]
+# Abel Tsegaye
+## Student
 
-![Your picture](https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students/demo_bill_gates.jpg)
+![Your picture](demo_bill_gates.jpg "https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students")
 ---
 
 ### Contact
-- **Email:** [Your NKU Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Website:** [Your Personal Website]
+- **Email:** yeshitelaa1@nku.edu
+- **LinkedIn:** https://www.linkedin.com/in/abel-tsegaye/
+- **GitHub:** [\[Your GitHub Profile\]](https://github.com/abeloy4)
+- **Website:** N/A
 
 ---
 
 ### Summary
-A brief summary highlighting your professional background, key skills, and career goals.
+Computer Science professional with experience in AI, machine learning, data analysis, and mobile app development. Former Data Operations Analyst Intern at Fidelity Investments, skilled in accurate data processing and communication efficiency. Passionate about driving innovation through AI and developing user-focused mobile solutions.
 
 ---
 
 ### Experience
 
-#### [Job Title] - [Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
+#### Data Feed Analyst Intern - Fidelity Investments
+June 2024 - October 2024 | Covington, KY
+- Ensured timely and accurate processing of loan data, reducing Not In Good Order (NIGO) cases by improving communication and workflows.
+- Increased daily loan repayment processing rates by implementing more efficient task management strategies.
 
-#### [Previous Job Title] - [Previous Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
+#### Teaching Assistant - Northern Kentucky University
+January 2023 - May 2023 | Highland Heights, KY
+- Assisted 30+ students in understanding Java object-oriented programming concepts and assignments.
+- Responded to student inquiries during office hours and email, providing clarity on course materials.
+- Conducted live grading by evaluating student submissions and running test cases to ensure correctness.
 
 ---
 
 ### Education
 
-#### [Degree], [Major] - [University Name]
-*_[Graduation Date]_*
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+#### Bachlor of Science, Computer Science - Northern Kentucky University
+May 2025
+- President's Honor List
+- NSBE, ACM
 
 ---
 
 ### Skills
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** Java, Python, C++, SQL, TensorFlow, Scikit-learn, Git, API integration, HTML/CSS, JavaScriptlanguages, software, tools, etc.
+- **Soft Skills:** Communication, teamwork, problem-solving, adaptability, time management
 
----
-
-### Certifications
-- [Certification Name], Issued by [Issuing Organization] - [Date]
-- Another relevant certification with details.
 
 ---
 
 ### Projects
-#### [Project Title]
-- A brief description of the project.
-- Technologies used and your role in the project.
+#### TuneWave
+- Developed a user-friendly music app with a focus on backend development, UI/UX design, and secure Spotify authentication.
+- Leveraged Spotify API, MVVM architecture, Kotlin Coroutines, Retrofit, and Dagger Hilt to display user music data and profiles.
 
-#### [Another Project Title]
-- Description of this project.
-- Highlight any unique challenges or successes.
+#### AI PDF Chatbot (MakeUC Hackathon – 2nd Place)
+-Designed and implemented a PDF Chatbot with Streamlit, OpenAI's LLM Model, LangChain, and PDFMiner.
+- Built an intuitive interface for uploading PDFs, enabling summarization and Q&A functionality using advanced NLP techniques.
 
 ---
 
 ### Languages
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- **[Language Name]:** English: Fluent
 
 ---
 
