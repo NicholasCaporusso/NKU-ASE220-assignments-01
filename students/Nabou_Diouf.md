@@ -1,7 +1,7 @@
 # Nabou Diouf
 ## Software Engineer Student 
 
-[Your picture](https://github.com/dionabou/NKU-ASE220-assignments-01/main/students/Nabou_Diouf.jpg)
+[My picture](https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/2025-spring/students/Nabou_Diouf.jpg)
 ---
 
 ### Contact
