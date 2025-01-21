@@ -17,7 +17,7 @@ I am a graduate of Simon Kenton High School I am working towards a degree in app
 
 ### Experience
 
-#### [Job Title] - [Company Name]
+#### [N/A] - [N/A]
 *_[Start Date] - [End Date] | [Location]_*
 - Bullet point detailing a key responsibility or achievement.
 - Another bullet point with a different responsibility or accomplishment.
@@ -33,27 +33,27 @@ I am a graduate of Simon Kenton High School I am working towards a degree in app
 
 #### [Bachelors], [Applied Software Engineering] - [Northen Kentucky University]
 *_[2027]_*
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+- Any Experience coding simple websites and code blocks to achieve certain goals
+- Extracurricular activities or clubs you were part of. (N/A)
 
 ---
 
 ### Skills
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- **Technical Skills:** Experience with Java, Python, HTML, Javascript and CSS.
+- **Soft Skills:** Open to feedback and always available.
 
 ---
 
 ### Certifications
-- [Certification Name], Issued by [Issuing Organization] - [Date]
+- [N/A], Issued by [N/A] - [Date]
 - Another relevant certification with details.
 
 ---
 
 ### Projects
-#### [Project Title]
-- A brief description of the project.
-- Technologies used and your role in the project.
+#### [Online Web Store]
+- A simple HTML page using javascript and CSS to populate a web store page pulling from a json database.
+- Using basic web development tools such as HTML, Javascript, and CSS.
 
 #### [Another Project Title]
 - Description of this project.
@@ -62,7 +62,8 @@ I am a graduate of Simon Kenton High School I am working towards a degree in app
 ---
 
 ### Languages
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- **[English]:** Proficiency level: Native
+- **[Spanish]:** Proficiency level: Basic
 
 ---
 
