@@ -1,7 +1,6 @@
 # Daniel Jackson
 ## 
-
-![Your picture] Daniel_Jackson.jpg
+![your picture](Daniel_Jackson-1.JPG)
 ---
 
 ### Contact
