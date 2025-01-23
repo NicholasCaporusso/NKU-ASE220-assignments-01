@@ -1,47 +1,43 @@
-# [Your Name]
-## [Your Profession]
+# Daniel Jackson
+## 
 
-![Your picture](https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students/demo_bill_gates.jpg)
+![Your picture] Daniel_Jackson.jpg
 ---
 
 ### Contact
-- **Email:** [Your NKU Email Address]
+- **Email:** JacksonD36@hh.nku.edu
 - **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Website:** [Your Personal Website]
+- **GitHub:** https://github.com/Daniel6169
 
 ---
 
 ### Summary
-A brief summary highlighting your professional background, key skills, and career goals.
+I am a hard working student at NKU. I love solving puzzles and fixing problems. 
 
 ---
 
 ### Experience
 
-#### [Job Title] - [Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
+#### [machine operator] - [Segepo]
+*_[march 2024] - [current] | [Highland Hieghts, KY]_*
+- Involves loading and fixing Davenport machines. 
+- Another aspect of my job is checking parts for quality, which requires attention to detail. 
 
-#### [Previous Job Title] - [Previous Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
+
 
 ---
 
 ### Education
 
-#### [Degree], [Major] - [University Name]
-*_[Graduation Date]_*
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+#### [Applied Software Engineering] - [University Name]
+*_[May 2027]_*
+- Completed some small coding projects. 
+- Apart of the Soars Scholar program.
 
 ---
 
 ### Skills
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
+- **Technical Skills:** I have knowledge of programing Languages such as Python, Java, Javascript, and HTML.
 - **Soft Skills:** Communication, teamwork, problem-solving, etc.
 
 ---
@@ -53,18 +49,15 @@ A brief summary highlighting your professional background, key skills, and caree
 ---
 
 ### Projects
-#### [Project Title]
-- A brief description of the project.
-- Technologies used and your role in the project.
+#### [Redesigned "The Clove Club" website.]
+- Redesigned a poorly made website into something more accessible and better looking. 
+- I used HTML for this project. 
 
-#### [Another Project Title]
-- Description of this project.
-- Highlight any unique challenges or successes.
 
 ---
 
 ### Languages
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- **English:** English is my native language.
 
 ---
 
