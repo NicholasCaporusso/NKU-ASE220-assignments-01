@@ -44,6 +44,8 @@ Our awesome class
 [![Denver Hogan](./students/DENVER_HOGAN.jpg)](./students/DENVER_HOGAN.md)
 ## Daniel Jackson
 [![Daniel Jackson](./students/Daniel_Jackson.JPG)](./students/Daniel_Jackson.md)
+## Owen Newberry
+[![Owen Newberry](./students/OWEN_NEWBERRY.jpg)](./students/OWEN_NEWBERRY.md)
 
 
 
@@ -67,5 +69,3 @@ Our awesome class
 [![Jacob Robbins](./students/robbinsj.jpg)](./students/robbinsj.md)
 ## Oshan Maharjan
 [![Oshan Maharjan](./students/maharjano.jpg)](./students/maharjano.md)
-## Owen Newberry
-[![Owen Newberry](./students/newberryo.jpg)](./students/newberryo.md)
