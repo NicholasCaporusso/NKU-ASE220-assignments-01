@@ -1,8 +1,41 @@
 Our awesome class
 -----------------
-<<<<<<< HEAD
-When everyone submits their work, this page will contain a recap of the class.
-=======
 
-Here I will add all the names of the people in the class.
->>>>>>> main
+[![A.J. Schulte](./students/schulteaj.jpg)](./students/schulteaj.md)
+[![Abel Tsegaye](./students/ABEL_TSEGAYE.jpg)](./students/ABEL_TSEGAYE.md) 
+[![Abdullahi Abdirahamn](./students/abdirahamna.jpg)](./students/abdirahamna.md)
+[![Aiden Gill](./students/gilla.jpg)](./students/gilla.md)
+[![Austin Shelton](./students/sheltona.jpg)](./students/sheltona.md)
+[![Bebba Elmane](./students/elmaneb.jpg)](./students/elmaneb.md)
+[![Bishal Bhandari](./students/bhandarib.jpg)](./students/bhandarib.md)
+[![Blair Asistin](./students/asistinb.jpg)](./students/asistinb.md)
+[![Brandon Johnson](./students/johnsonb.jpg)](./students/johnsonb.md)
+[![Camden Bohanan](./students/bohananc.jpg)](./students/bohananc.md)
+[![Cley Shelton](./students/sheltonc.jpg)](./students/sheltonc.md)
+[![Daniel Jackson](./students/jacksond.jpg)](./students/jacksond.md)
+[![Danny Poff](./students/poffd.jpg)](./students/poffd.md)
+[![David-Michael Davies](./students/daviesd.jpg)](./students/daviesd.md)
+[![Denver Hogan](./students/hogand.jpg)](./students/hogand.md)
+[![Dillon Carpenter](./students/carpenterd.jpg)](./students/carpenterd.md)
+[![Drew Hanson](./students/hansond.jpg)](./students/hansond.md)
+[![Emma Hopkins](./students/hopkinse.jpg)](./students/hopkinse.md)
+[![Fiker Kifle](./students/kiflef.jpg)](./students/kiflef.md)
+[![Isaac Hargrave](./students/hargravei.jpg)](./students/hargravei.md)
+[![Jack Dixon](./students/dixonj.jpg)](./students/dixonj.md)
+[![Jacob Robbins](./students/robbinsj.jpg)](./students/robbinsj.md)
+[![Josh Day](./students/dayj.jpg)](./students/dayj.md)
+[![Joseph Ampfer](./students/ampferj.jpg)](./students/ampferj.md)
+[![Kidus Getachew](./students/getachewk.jpg)](./students/getachewk.md)
+[![Kore Tucker](./students/tuckerk.jpg)](./students/tuckerk.md)
+[![Landen Tomlin](./students/tomlinl.jpg)](./students/tomlinl.md)
+[![Nabou Diouf](./students/dioufn.jpg)](./students/dioufn.md)
+[![Nate Brewer](./students/brewern.jpg)](./students/brewern.md)
+[![Nicholas Caporusso](./students/caporusson.jpg)](./students/caporusson.md)
+[![Oshan Maharjan](./students/maharjano.jpg)](./students/maharjano.md)
+[![Owen Newberry](./students/newberryo.jpg)](./students/newberryo.md)
+[![Parker Groneck](./students/groneckp.jpg)](./students/groneckp.md)
+[![Philip Bierley](./students/bierleyp.jpg)](./students/bierleyp.md)
+[![Ruth Goremiss](./students/goremissr.jpg)](./students/goremissr.md)
+[![Tanner Andrews](./students/andrewst.jpg)](./students/andrewst.md)
+[![Xander Murphy](./students/murphyx.jpg)](./students/murphyx.md)
+[![Zakaria Gouiss](./students/gouissz.jpg)](./students/gouissz.md)
