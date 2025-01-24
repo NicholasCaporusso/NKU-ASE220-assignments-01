@@ -16,6 +16,8 @@ Our awesome class
 [![Cley Shelton](./students/cleyton_shelton.jpg)](./students/cleyton_shelton.md)
 ## Danny Poff
 [![Danny Poff](./students/DANNY_POFF.jpg)](./students/DANNY_POFF.md)
+## Dillon Carpenter
+[![Dillon Carpenter](./students/Dillon_Carpenter.jpg)](./students/DILLON_CARPENTER.md)
 ## Emma Hopkins
 [![Emma Hopkins](./students/EMMA_HOPKINS.jpg)](./students/EMMA_HOPKINS.md)
 ## Jack Dixon
@@ -59,8 +61,6 @@ Our awesome class
 [![Bebba Elmane](./students/elmaneb.jpg)](./students/elmaneb.md)
 ## Brandon Johnson
 [![Brandon Johnson](./students/johnsonb.jpg)](./students/johnsonb.md)
-## Dillon Carpenter
-[![Dillon Carpenter](./students/carpenterd.jpg)](./students/carpenterd.md)
 ## Drew Hanson
 [![Drew Hanson](./students/hansond.jpg)](./students/hansond.md)
 ## Isaac Hargrave
